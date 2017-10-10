@@ -2,8 +2,8 @@
 
 Даны два репозитория, каждый из которых соответствует отдельному проекту:
 
-* [репозиторий А](https://git.bw-sw.com/education/git/join-a) для проекта А
-* [репозиторий B](https://git.bw-sw.com/education/git/join-b) для проекта Б
+* [репозиторий А](https://github.com/ismailov-tsu/git-join-a) для проекта А
+* [репозиторий B](https://github.com/ismailov-tsu/git-join-b) для проекта Б
 
 Проект А содержит следующую историю коммитов:
 
