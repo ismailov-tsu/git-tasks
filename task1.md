@@ -1,6 +1,6 @@
 # Задание 1
 
-В [репозитории](https://git.bw-sw.com/education/git/git-flow) есть три ветки:
+В [репозитории](https://github.com/ismailov-tsu/git-flow) есть три ветки:
 
 * `master` - стабильная версия проекта
 * `develop` - текущая версия проекта для разработки
